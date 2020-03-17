@@ -1,8 +1,8 @@
 {
   "values": [
-    {"drawBgImg": "../../assets/images/draws/back_lights.png"},
-    {"drawImg": "../../assets/images/draws/mystery_drawing_gifts.png"},
-    {"drawBg": "../../assets/images/draws/mistery_drawing_bg.jpg"},
+    {"drawBgImg": "https://10.0.1.4/nyl/WebApp/cms2020/draw-component/static/media/back_lights.4d3e6e48.png"},
+    {"drawImg": "https://10.0.1.4/nyl/WebApp/cms2020/draw-component/static/media/mystery_drawing_gifts.e480f521.png"},
+    {"drawBg": "https://10.0.1.4/nyl/WebApp/cms2020/draw-component/static/media/mistery_drawing_bg.3a37cd50.jpg"},
     {"drawTitle": "Mystery"},
     {"drawSubTitle": ""},
     {"drawText": ""},
