@@ -1,8 +1,11 @@
 {
   "values": [
-    { "title": "Name"} ,
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ]
+    {"drawBgImg": '../../assets/images/draws/back_lights.png'},
+    {"drawImg": '../../assets/images/draws/mystery_drawing_gifts.png'},
+    {"drawBg": '../../assets/images/draws/mistery_drawing_bg.jpg'},
+    {"drawTitle": 'Mystery'},
+    {"drawSubTitle": 'Drawing'},
+    {"drawText": 'Next Drawing'},
+    {"drawBtnText": 'Enter Drawing'}
+    ]
 }
