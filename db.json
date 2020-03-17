@@ -1,11 +1,11 @@
 {
   "values": [
-    {"drawBgImg": '../../assets/images/draws/back_lights.png'},
-    {"drawImg": '../../assets/images/draws/mystery_drawing_gifts.png'},
-    {"drawBg": '../../assets/images/draws/mistery_drawing_bg.jpg'},
-    {"drawTitle": 'Mystery'},
-    {"drawSubTitle": 'Drawing'},
-    {"drawText": 'Next Drawing'},
-    {"drawBtnText": 'Enter Drawing'}
+    {"drawBgImg": "../../assets/images/draws/back_lights.png"},
+    {"drawImg": "../../assets/images/draws/mystery_drawing_gifts.png"},
+    {"drawBg": "../../assets/images/draws/mistery_drawing_bg.jpg"},
+    {"drawTitle": "Mystery"},
+    {"drawSubTitle": "Drawing"},
+    {"drawText": "Next Drawing"},
+    {"drawBtnText": "Enter Drawing"}
     ]
 }
