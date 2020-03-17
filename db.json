@@ -4,8 +4,8 @@
     {"drawImg": "../../assets/images/draws/mystery_drawing_gifts.png"},
     {"drawBg": "../../assets/images/draws/mistery_drawing_bg.jpg"},
     {"drawTitle": "Mystery"},
-    {"drawSubTitle": "Drawing"},
-    {"drawText": "Next Drawing"},
+    {"drawSubTitle": ""},
+    {"drawText": ""},
     {"drawBtnText": "Enter Drawing"}
     ]
 }
