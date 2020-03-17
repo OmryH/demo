@@ -1,11 +1,11 @@
 {
   "data": [
-    {"drawBgImg": "../../assets/images/draws/back_lights.png"},
-    {"drawImg": "../../assets/images/draws/mystery_drawing_gifts.png"},
-    {"drawBg": "../../assets/images/draws/mistery_drawing_bg.jpg"},
-    {"drawTitle": "Mystery"},
+    {"drawBgImg": ""},
+    {"drawImg": ""},
+    {"drawBg": ""},
+    {"drawTitle": "Mystery (API)"},
     {"drawSubTitle": ""},
     {"drawText": ""},
-    {"drawBtnText": "Enter Drawing"}
+    {"drawBtnText": "Enter Drawing (API)"}
     ]
 }
