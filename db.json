@@ -2,10 +2,8 @@
   "data": [
     {"drawBgImg": ""},
     {"drawImg": ""},
-    {"drawBg": ""},
     {"drawTitle": "Mystery (API)"},
-    {"drawSubTitle": ""},
-    {"drawText": ""},
-    {"drawBtnText": "Enter Drawing (API)"}
+    {"drawTime": "01:10:30"},
+    {"drawBtnLink": ""}
     ]
 }
